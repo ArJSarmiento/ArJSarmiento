@@ -4,7 +4,7 @@
 #### Student | Aspiring Software Engineer
 
 
-An undergraduate student at the University of the Philippines Mindanao majoring in Computer Science. Most of my time was spent working on the front-end. Another thing on my to-do list is to learn Machine Learning. Besides programming, I also enjoy working out and playing video games.
+An undergraduate student at the University of the Philippines Mindanao majoring in Computer Science. Most of my time was spent working on the back-end. Another thing on my to-do list is to learn Machine Learning. Besides programming, I also enjoy working out and playing video games.
 
 Skills: REACT / JS / HTML / CSS / PYTHON / C / C#
 
