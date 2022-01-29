@@ -32,6 +32,7 @@ Skills: REACT NATIVE / JS / HTML / CSS / PYTHON / C / C# / UNITY
 <img align="left" width="26px" alt="bash" src="https://img.icons8.com/fluent/2x/console.png" />
 
 <br/>
+<br/>
 
 ### ✨ Recent Tech Activities
 
