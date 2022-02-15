@@ -23,6 +23,7 @@ Skills: REACT NATIVE / JS / HTML / CSS / PYTHON / C / C# / UNITY
 <img align="left" width="26px" alt="reactjs" src="https://img.icons8.com/color/2x/react-native.png" />
 <img align="left" width="26px" alt="nodejs" src="https://img.icons8.com/color/2x/nodejs.png" />
 <img align="left" width="26px" alt="python" src="https://img.icons8.com/color/2x/python.png" />
+<img align="left" width="26px" alt="numpy" src="https://img.icons8.com/color/2x/numpy.png" />
 <img align="left" width="26px" alt="django" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png"/>
 <img align="left" width="26px" alt="c" src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" />
 <img align="left" width="26px" alt="c#" src="https://img.icons8.com/color/2x/c-programming.png" />
