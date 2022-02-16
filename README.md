@@ -37,8 +37,9 @@ Skills: REACT NATIVE / JS / HTML / CSS / PYTHON / C / C# / UNITY
 
 ### ✨ Recent Tech Activities
 
-- NASA International Space Apps Challenge 2021, where we built a 2D RPG survival game that showcases the adventures astronauts experience in deep space and simulates the wonders of space travel. 
 - Building a Hotel Management and Reservation System for the Hotel and Restaurant Services Department of Christian Polytechnic Institute of Catanduanes.
+- NASA International Space Apps Challenge 2021, where I built a 2D RPG survival game that showcases the adventures astronauts experience in deep space and simulates the wonders of space travel. 
+- Salinlahi Evolution v3.0: An App Development Competition, where my team built Scinapse, a 2D adventure game that teaches students a wide array of science concepts.
 
 
 ###  📊 Stats
