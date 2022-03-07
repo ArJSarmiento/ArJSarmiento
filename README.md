@@ -14,6 +14,8 @@ Skills: REACT NATIVE / JS / HTML / CSS / PYTHON / C / C# / UNITY
 - 📃 <a href="https://drive.google.com/file/d/13I7vWntJPflJZJRO-isMQnDyj7L4Timw/view?usp=sharing">My Resume</a>
 - 📫 How to reach me: aesarmiento@up.edu.ph
 
+<br/>
+
 ### 🧰 Languages & Tools
 
 <img align="left" width="26px" alt="vscode" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" />
@@ -34,6 +36,7 @@ Skills: REACT NATIVE / JS / HTML / CSS / PYTHON / C / C# / UNITY
 
 <br/>
 <br/>
+<br/>
 
 ### ✨ Recent Tech Activities
 
@@ -41,6 +44,7 @@ Skills: REACT NATIVE / JS / HTML / CSS / PYTHON / C / C# / UNITY
 - NASA International Space Apps Challenge 2021, where I built a 2D RPG survival game that showcases the adventures astronauts experience in deep space and simulates the wonders of space travel. 
 - Salinlahi Evolution v3.0: An App Development Competition, where my team built Scinapse, a 2D adventure game that teaches students a wide array of science concepts.
 
+<br/>
 
 ###  📊 Stats
 
@@ -60,6 +64,7 @@ Skills: REACT NATIVE / JS / HTML / CSS / PYTHON / C / C# / UNITY
 
 </details>
 
+<br/>
 
 ### 🔗 Connect with me
 
