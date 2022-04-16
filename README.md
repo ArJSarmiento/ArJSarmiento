@@ -10,8 +10,8 @@ Skills: REACT / JS / HTML / CSS / PHP / PYTHON / C / C# / UNITY
 
 - 🔭 I’m currently working on Django Web Applications
 - 🌱 I’m currently learning React Native and Machine Learning 
-- 🏆 <a href="https://github.com/ArJSarmiento/Certificates">Certificates</a>
-- 📃 <a href="https://drive.google.com/file/d/1ZsANzXVlGyVZjBCl97v1iEvZlE6B5s8_/view?usp=sharing">My Resume</a>
+- 🏆 <a href="https://github.com/ArJSarmiento/Certificates" target="_blank">Certificates</a>
+- 📃 <a href="https://drive.google.com/file/d/1ZsANzXVlGyVZjBCl97v1iEvZlE6B5s8_/view?usp=sharing" target="_blank">My Resume</a>
 - 📫 How to reach me: rneljan@gmail.com
 
 ### 🧰 Languages & Tools
