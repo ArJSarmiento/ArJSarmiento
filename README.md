@@ -75,5 +75,3 @@ Skills: REACT / JS / HTML / CSS / PHP / PYTHON / C / C# / UNITY
 [linkedin]: https://www.linkedin.com/in/ArJSarmiento/
 [facebook]: https://www.facebook.com/Arnel.Jansarmiento.2003/
 [twitter]: https://twitter.com/ArJSarmiento
-[Github]: https://github.com/ArJSarmiento
-[Certificates]: https://github.com/ArJSarmiento/Certificates
