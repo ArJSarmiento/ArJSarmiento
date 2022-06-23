@@ -22,6 +22,8 @@ Skills: REACT / JS / HTML / CSS / PHP / PYTHON / C / C# / UNITY
 <img width="40px" alt="css" src="https://img.icons8.com/color/2x/css3.png" />
 <img  width="40px" alt="js" src="https://img.icons8.com/color/2x/javascript.png" />
 <img  width="40px" alt="reactjs" src="https://img.icons8.com/color/2x/react-native.png" />
+<img  width="40px" alt="vuejs" src="https://img.icons8.com/color/96/000000/vue-js.png" />
+<img  width="40px" alt="nuxtjs" src="https://i.redd.it/2ssi8ft315b71.png" />
 <img  width="40px" alt="nodejs" src="https://img.icons8.com/color/2x/nodejs.png" />
 <img  width="40px" alt="php" src="https://img.icons8.com/dusk/344/php-logo.png" />
 <img  width="40px" alt="pwa" src="https://angular.io/generated/images/marketing/concept-icons/pwa.png" />
