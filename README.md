@@ -26,6 +26,7 @@ Skills: REACT / JS / HTML / CSS / PHP / PYTHON / C / C# / UNITY
 <img  width="40px" alt="nuxtjs" src="https://i.redd.it/2ssi8ft315b71.png" />
 <img  width="40px" alt="nodejs" src="https://img.icons8.com/color/2x/nodejs.png" />
 <img  width="40px" alt="php" src="https://img.icons8.com/dusk/344/php-logo.png" />
+<img  width="40px" alt="laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 <img  width="40px" alt="pwa" src="https://angular.io/generated/images/marketing/concept-icons/pwa.png" />
 <img width="40px" alt="python" src="https://img.icons8.com/color/2x/python.png" />
 <img width="40px" alt="numpy" src="https://img.icons8.com/color/2x/numpy.png" />
