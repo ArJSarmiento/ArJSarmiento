@@ -6,7 +6,7 @@
 
 A Full-stack Python Web Developer who dabbles in Machine Learning, Mobile, and Game Development. I am actively looking for opportunities to collaborate and create meaningful projects in tech. I am currently taking my undergraduate degree at the University of the Philippines Mindanao majoring in Computer Science.
 
-Skills: REACT / JS / HTML / CSS / PHP / PYTHON / C / C# / UNITY
+Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY
 
 - 🔭 I’m currently working on Django Web Applications
 - 🌱 I’m currently learning React Native and Machine Learning 
@@ -57,7 +57,7 @@ Skills: REACT / JS / HTML / CSS / PHP / PYTHON / C / C# / UNITY
   <summary>Github Stats</summary>
   <br>
   
-  ![Arnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArJSarmiento&theme=merko)
+  ![Arnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArJSarmiento&theme=tokyonight)
   
 </details>
 
@@ -65,7 +65,7 @@ Skills: REACT / JS / HTML / CSS / PHP / PYTHON / C / C# / UNITY
   <summary>Top Languages Stats</summary>
   <br>
   
-  ![Arnel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArJSarmiento&theme=merko)
+  ![Arnel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArJSarmiento&theme=tokyonight)
 
 </details>
 
