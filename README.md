@@ -4,11 +4,11 @@
 #### Student | Full-stack Developer
 
 
-A Full-stack Python Web Developer who dabbles in Machine Learning, Mobile, and Game Development. I am actively looking for opportunities to collaborate and create meaningful projects in tech. I am currently taking my undergraduate degree at the University of the Philippines Mindanao majoring in Computer Science.
+A Full-stack Web Developer who dabbles in Machine Learning, Mobile, and Game Development. I am actively looking for opportunities to collaborate and create meaningful projects in tech. I am currently taking my undergraduate degree at the University of the Philippines Mindanao majoring in Computer Science.
 
-Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY
+Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
-- 🔭 I’m currently working on Django Web Applications
+- 🔭 I’m currently working on Laravel and Nuxt.js E-commerce applications
 - 🌱 I’m currently learning React Native and Machine Learning 
 - 🏆 <a href="https://github.com/ArJSarmiento/Certificates" target="_blank">Certificates</a>
 - 📃 <a href="https://drive.google.com/file/d/1ZsANzXVlGyVZjBCl97v1iEvZlE6B5s8_/view?usp=sharing" target="_blank">My Resume</a>
