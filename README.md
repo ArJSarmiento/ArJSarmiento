@@ -73,9 +73,6 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 ### 🔗 Connect with me
 
 [<img align="left" width="40px" alt="facebook" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
-[<img align="left" width="40px" alt="facebook" src="https://img.icons8.com/fluent/344/facebook-new.png" />][facebook]
-[<img align="left" width="40px" alt="twitter" src="https://img.icons8.com/fluent/344/twitter.png" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/ArJSarmiento/
-[facebook]: https://www.facebook.com/Arnel.Jansarmiento.2003/
-[twitter]: https://twitter.com/ArJSarmiento
+
