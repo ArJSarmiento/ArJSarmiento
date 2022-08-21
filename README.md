@@ -74,6 +74,7 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 ### 🔗 Connect with me
 
 [<img align="left" width="40px" title="LinkedIn" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
+[<img align="left" width="40px" title="Skype" src="https://img.icons8.com/fluent/344/skype.png" />][skype]
 
 [linkedin]: https://www.linkedin.com/in/ArJSarmiento/
-
+[skype]: https://join.skype.com/invite/wclZ2lQIPyvM
