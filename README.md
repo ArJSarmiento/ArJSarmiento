@@ -20,6 +20,8 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 <img width="40px" title="VSCode" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" />
 <img width="40px" title="HTML" src="https://img.icons8.com/color/2x/html-5.png" />
 <img width="40px" title="CSS" src="https://img.icons8.com/color/2x/css3.png" />
+<img width="40px" title="SASS" src="https://img.icons8.com/color/344/sass-avatar.png" />
+<img width="40px" title="Bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" />
 <img  width="40px" title="JavaScript ES6" src="https://img.icons8.com/color/2x/javascript.png" />
 <img  width="40px" title="ReactJS" src="https://img.icons8.com/color/2x/react-native.png" />
 <img  width="40px" title="VueJS" src="https://img.icons8.com/color/96/000000/vue-js.png" />
