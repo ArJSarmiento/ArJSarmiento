@@ -12,7 +12,7 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 - 🌱 I’m currently learning React Native and Machine Learning 
 - 🏆 <a href="https://github.com/ArJSarmiento/Certificates" target="_blank">Certificates</a>
 - 📃 <a href="https://drive.google.com/file/d/1ZsANzXVlGyVZjBCl97v1iEvZlE6B5s8_/view?usp=sharing" target="_blank">My Resume</a>
-- 📫 How to reach me: aesarmiento@up.edu.ph
+- 📫 How to reach me: rneljan@gmail.com
 
 ### 🧰 Languages & Tools
 
