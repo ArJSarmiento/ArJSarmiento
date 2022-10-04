@@ -37,10 +37,12 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 <img width="40px" title="C" src="https://img.icons8.com/color/2x/c-programming.png" />
 <img width="40px" title="C++" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
 <img width="40px" title="C#" src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" />
-<img width="40px" title="Unity" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
+<img width="40px" title="Docker" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
+<img width="40px" title="Unity" src="https://img.icons8.com/fluency/344/docker.png"/>
 <img width="40px" title="Git" src="https://img.icons8.com/color/2x/git.png" />
 <img width="40px" title="Github" src="https://img.icons8.com/fluent/2x/github.png" />
 <img  width="40px" title="Heroku" src="https://img.icons8.com/color/344/heroku.png" />
+<img  width="40px" title="DigitalOcean" src="https://www.digitalocean.com/_next/static/media/do-logo.d3eb8550.svg" />
 <img  width="40px" title="AWS" src="https://img.icons8.com/color/344/amazon-web-services.png" />
 <img  width="40px" title="Figma" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" />
 <p/>
