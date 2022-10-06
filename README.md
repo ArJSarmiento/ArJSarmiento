@@ -1,8 +1,12 @@
 
    
-# Hello <img src="https://media.tenor.com/images/af1b615e4f90567a1328b7c320d3a601/tenor.gif" height="25px"> I'm Arnel
-#### Student | Full-stack Developer
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px"> I'm Arnel
 
+<p align="center">
+  <a href="https://github.com/nadjitan/nadjitan/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page;I+am+Arnel;I+am+a+Full-stack+Web+Developer"></a>
+</p>
+
+#### Student | Full-stack Developer
 
 A Full-stack Web Developer who dabbles in Machine Learning, Mobile, and Game Development. I am actively looking for opportunities to collaborate and create meaningful projects in tech. I am currently taking my undergraduate degree at the University of the Philippines Mindanao majoring in Computer Science.
 
@@ -59,7 +63,7 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
 ###  📊 Stats
 
-<details>
+<details open>
   <summary>Github Stats</summary>
   <br>
   
@@ -67,7 +71,14 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
   
 </details>
 
-<details>
+<details open>
+  <summary>Github Stats</summary>
+  <br>
+  
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=ArJSarmiento&theme=tokyonight)
+</details>
+
+<details open>
   <summary>Top Languages Stats</summary>
   <br>
   
