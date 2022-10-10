@@ -72,7 +72,7 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 </details>
 
 <details open>
-  <summary>Github Stats</summary>
+  <summary>Commit Stats</summary>
   <br>
   
    ![](https://github-readme-streak-stats.herokuapp.com/?user=ArJSarmiento&theme=tokyonight)
