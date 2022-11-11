@@ -27,6 +27,7 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 <img width="40px" title="SASS" src="https://img.icons8.com/color/344/sass-avatar.png" />
 <img width="40px" title="Bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" />
 <img  width="40px" title="JavaScript ES6" src="https://img.icons8.com/color/2x/javascript.png" />
+<img  width="40px" title="Firebase" src="https://img.icons8.com/color/512/google-firebase-console.png" />
 <img  width="40px" title="ReactJS" src="https://img.icons8.com/color/2x/react-native.png" />
 <img  width="40px" title="VueJS" src="https://img.icons8.com/color/96/000000/vue-js.png" />
 <img  width="40px" title="NuxtJS" src="https://i.redd.it/2ssi8ft315b71.png" />
