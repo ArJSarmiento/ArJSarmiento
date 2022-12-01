@@ -8,7 +8,7 @@
 
 #### Full-stack Developer
 
-I am a Full-stack Developer, data enthusiast, and lifelong learner. I am passionate about creating responsive, scalable, and innovative web applications with the latest technologies. I am actively looking for opportunities to collaborate and create meaningful projects in tech.
+I am a Full-stack Developer, data enthusiast, and lifelong learner. I am passionate about creating responsive, scalable, and AI-powered web applications with the latest technologies. I am actively looking for opportunities to collaborate and create meaningful projects in tech.
 
 Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
