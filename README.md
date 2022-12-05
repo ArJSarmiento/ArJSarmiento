@@ -18,13 +18,14 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
 ### 🧰 Languages & Tools
 
-<p align="left">
+<p align="center">
 <img width="40px" title="VSCode" src="https://img.icons8.com/fluent/2x/visual-studio-code-2019.png" />
 <img width="40px" title="HTML" src="https://img.icons8.com/color/2x/html-5.png" />
 <img width="40px" title="CSS" src="https://img.icons8.com/color/2x/css3.png" />
 <img width="40px" title="SASS" src="https://img.icons8.com/color/344/sass-avatar.png" />
 <img width="40px" title="Bootstrap" src="https://img.icons8.com/color/344/bootstrap.png" />
 <img  width="40px" title="JavaScript ES6" src="https://img.icons8.com/color/2x/javascript.png" />
+<img  width="40px" title="TypeScript" src="https://img.icons8.com/color/512/typescript.png" />
 <img  width="40px" title="Firebase" src="https://img.icons8.com/color/512/google-firebase-console.png" />
 <img  width="40px" title="ReactJS" src="https://img.icons8.com/color/2x/react-native.png" />
 <img  width="40px" title="VueJS" src="https://img.icons8.com/color/96/000000/vue-js.png" />
@@ -35,6 +36,8 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 <img  width="40px" title="PWA" src="https://angular.io/generated/images/marketing/concept-icons/pwa.png" />
 <img width="40px" title="Python" src="https://img.icons8.com/color/2x/python.png" />
 <img width="40px" title="Numpy" src="https://img.icons8.com/color/2x/numpy.png" />
+<img width="40px" title="Pandas" src="https://img.icons8.com/color/512/pandas.png" />
+<img width="50px" title="Scikitlearn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img  width="30px" title="Django" src="https://hackr.io/tutorials/django/logo-django.svg?ver=1610114943"/>
 <img width="40px" title="Java" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v2.png" />
 <img width="40px" title="C" src="https://img.icons8.com/color/2x/c-programming.png" />
