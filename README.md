@@ -6,7 +6,7 @@
   <a href="https://github.com/nadjitan/nadjitan/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi%2C+welcome+to+my+Github+page;Let's+collaborate!"></a>
 </p>
 
-I am a **Full-stack Developer**, data enthusiast, and lifelong learner. I am passionate about creating responsive, scalable, and AI-powered web applications with the latest technologies. I am actively looking for opportunities to collaborate and create meaningful projects in tech.
+I am a ***Full-stack Developer***, data enthusiast, and lifelong learner. I am passionate about creating responsive, scalable, and AI-powered web applications with the latest technologies. I am actively looking for opportunities to collaborate and create meaningful projects in tech.
 
 Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
