@@ -3,7 +3,7 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" height="22px"> I'm Arnel
 
 <p align="center">
-  <a href="https://github.com/nadjitan/nadjitan/"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page...;Let's+collaborate!"></a>
+  <a href="https://github.com/ArJSarmiento"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page...;Let's+collaborate!"></a>
 </p>
 
 I am a ***Full-stack Developer***, data enthusiast, and lifelong learner. I am passionate about creating responsive, scalable, and AI-powered web applications with the latest technologies. I am actively looking for opportunities to collaborate and create meaningful projects in tech.
