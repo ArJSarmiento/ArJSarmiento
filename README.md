@@ -12,7 +12,7 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
 - 🔭 I’m currently working on Laravel and Nuxt.js E-commerce applications
 - 🌱 I’m currently learning React Native and Machine Learning 
-- 🏆 <a href="https://github.com/ArJSarmiento/Certificates" target="_blank">Certificates</a>
+- 🏆 <a href="https://drive.google.com/drive/folders/1SVIOUABJuplucwW56YA6zWQwiS2LMzQV?usp=sharing" target="_blank">Certificates</a>
 - 📃 <a href="https://drive.google.com/file/d/1ZsANzXVlGyVZjBCl97v1iEvZlE6B5s8_/view?usp=sharing" target="_blank">My Resume</a>
 - 📫 How to reach me: rneljan@gmail.com
 
@@ -56,7 +56,6 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
 ### ✨ Recent Tech Activities
 
-- Architected and developed the Travel Booking System and Hotel Management and Reservation System for the Hotel and Restaurant Services Department of Christian Polytechnic Institute of Catanduanes.
 - NASA International Space Apps Challenge 2021, where I built a 2D RPG survival game that showcases the adventures astronauts experience in deep space and simulates the wonders of space travel. 
 - Salinlahi Evolution v3.0: An App Development Competition, where my team built Scinapse, a 2D adventure game that teaches students a wide array of science concepts.
 - Shopee Code League 2022, where my team competed in solving algorithmic puzzles againsts teams across South East Asia.
