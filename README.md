@@ -63,6 +63,7 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
 
 ###  📊 Stats
+[![committers.top badge](https://user-badge.committers.top/philippines/ArJSarmiento.svg)](https://user-badge.committers.top/philippines/ArJSarmiento)
 
 <details open>
   <summary>Github Stats</summary>
