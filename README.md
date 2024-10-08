@@ -6,14 +6,13 @@
   <a href="https://github.com/ArJSarmiento"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page...;Let's+collaborate!"></a>
 </p>
 
-I am a ***Full-stack Developer***, data enthusiast, and lifelong learner. I am passionate about creating responsive, scalable, and AI-powered web applications with the latest technologies. I am actively looking for opportunities to collaborate and create meaningful projects in tech.
+I am a ***Backend Developer***, data enthusiast, and lifelong learner. I am passionate about creating responsive, scalable, and AI-powered web applications with the latest technologies. I am actively looking for opportunities to collaborate and create meaningful projects in tech.
 
 Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 
 - 🔭 I’m currently working on Laravel and Nuxt.js E-commerce applications
-- 🌱 I’m currently learning React Native and Machine Learning 
-- 🏆 <a href="https://drive.google.com/drive/folders/1SVIOUABJuplucwW56YA6zWQwiS2LMzQV?usp=sharing" target="_blank">Certificates</a>
-- 📃 <a href="https://drive.google.com/file/d/1ZsANzXVlGyVZjBCl97v1iEvZlE6B5s8_/view?usp=sharing" target="_blank">My Resume</a>
+- 🌱 I’m currently learning React Native and Machine Learning
+- 📃 <a href="https://medium.com/@arneljansarmiento" target="_blank">Check my Blog</a>
 - 📫 How to reach me: rneljan@gmail.com
 
 ### 🧰 Languages & Tools
@@ -91,7 +90,5 @@ Skills: VUE.JS / NUXT.JS / REACT.JS / LARAVEL / DJANGO / UNITY / AWS
 ### 🔗 Connect with me
 
 [<img align="left" width="40px" title="LinkedIn" src="https://img.icons8.com/fluent/344/linkedin.png" />][linkedin]
-[<img align="left" width="40px" title="Skype" src="https://img.icons8.com/fluent/344/skype.png" />][skype]
 
-[linkedin]: https://www.linkedin.com/in/ArJSarmiento/
-[skype]: https://join.skype.com/invite/wclZ2lQIPyvM
+[linkedin]: https://www.linkedin.com/in/ArJSarmiento/]
