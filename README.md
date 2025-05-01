@@ -28,7 +28,7 @@ I'm a <strong>Cloud Engineer</strong> and <strong>Python Backend Developer</stro
    <img width="40px" title="GraphQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" />
    <img width="40px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img width="40px" title="ReactJS" src="https://img.icons8.com/color/2x/react-native.png" />
-   <img width="40px" title="NextJS" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" />
+   <img width="40px" title="NextJS" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" />
    <img width="50px" title="React Native" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
    <img width="40px" title="VueJS" src="https://img.icons8.com/color/96/000000/vue-js.png" />
    <img width="40px" title="NuxtJS" src="https://i.redd.it/2ssi8ft315b71.png" />
