@@ -15,9 +15,9 @@ I'm a <strong>Cloud Engineer</strong> and <strong>Python Backend Developer</stro
 <h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-   <img width="40px" title="Python" src="https://img.icons8.com/color/2x/python.png" />
+   <img width="40px" title="Python" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
    <img width="30px" title="Django" src="https://hackr.io/tutorials/django/logo-django.svg?ver=1610114943" />
-   <img width="40px" title="Flask" src="https://flask.palletsprojects.com/en/stable/_static/shortcut-icon.png" />
+   <img width="40px" title="Flask" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" />
    <img width="40px" title="FastAPI" src="https://fastapi.tiangolo.com/img/favicon.png" />
    <img width="45px" title="AWS Lambda" src="https://img.icons8.com/?size=100&id=Y9Kxy8Xl1id8&format=png&color=000000" />
    <img width="40px" title="Firebase" src="https://img.icons8.com/color/512/google-firebase-console.png" />
