@@ -16,7 +16,7 @@ I'm a <strong>Cloud Engineer</strong> and <strong>Python Backend Developer</stro
 
 <p align="center">
    <img width="40px" title="Python" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
-   <img width="30px" title="Django" src="https://hackr.io/tutorials/django/logo-django.svg?ver=1610114943" />
+   <img width="30px" title="Django" src="https://github.com/user-attachments/assets/3d13a6b8-e742-4cae-a1fc-696db64983e3" />
    <img width="40px" title="Flask" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" />
    <img width="40px" title="FastAPI" src="https://fastapi.tiangolo.com/img/favicon.png" />
    <img width="45px" title="AWS Lambda" src="https://img.icons8.com/?size=100&id=Y9Kxy8Xl1id8&format=png&color=000000" />
